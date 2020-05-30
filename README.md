@@ -4,5 +4,6 @@ NLP Semester Project
 <br>
 <b>Please go through the proposal for more details.</b>
 <br>
-<b>Use the hotel_rev.csv file</b>
+<br>
+<b>Use the hotel_rev.csv file.</b>
 <h3>Good luck!</h3>
